@@ -1,6 +1,6 @@
 # Hi 👋 I'm Mashudu Mukosi
 
-Data Scientist | Machine Learning | AI Applications
+Chemist | Data Scientist | Machine Learning | AI Applications
 
 I build machine learning systems and data-driven solutions using Python, SQL, and modern MLOps tools.
 
