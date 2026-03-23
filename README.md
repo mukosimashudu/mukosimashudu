@@ -1,4 +1,4 @@
-# Hi 👋 I'm Mashudu Mukosi
+I'm Mashudu Mukosi
 
 Chemist | Data Scientist | Machine Learning | AI Applications
 
