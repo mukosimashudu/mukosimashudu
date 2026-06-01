@@ -45,8 +45,6 @@ Streamlit | Git | SQL
 GitHub  
 https://github.com/mukosimashudu
 
-Email  
-mukosi.lucky@gmail.com## Hi there 👋
 
 <!--
 **mukosimashudu/mukosimashudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
